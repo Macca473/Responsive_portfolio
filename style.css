@@ -1,0 +1,18 @@
+.topfortitle{
+    width: 100%;
+    background-color: rgb(203, 202, 255);
+}
+
+.toptitle{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(158, 157, 255);
+    border-radius: 0px 0px 20px 20px;
+}
+
+.navbb{
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 1vw;
+}
