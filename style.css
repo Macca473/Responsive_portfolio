@@ -11,10 +11,15 @@
 }
 
 .navbb{
-    font-size: 15px;
     text-align: center;
     font-weight: bold;
     padding-top: 1vw;
+    float: right;
+}
+
+.links{
+    color: black;
+    font-size: 17px;
 }
 
 .largepageelement{
